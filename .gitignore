@@ -1,0 +1,4 @@
+.data/trec/train_5500.label
+.data/trec/TREC_10.label
+**/.ipynb_checkpoints/*
+data/fashion_pt/*
