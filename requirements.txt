@@ -3,3 +3,6 @@ torch
 matplotlib
 requests
 scapy
+scikit-learn
+pandas
+
