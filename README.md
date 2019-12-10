@@ -1,6 +1,6 @@
-# Learning Deep Learning for Coders
+# PyTorch Workshop
 
-Repo with the notebooks for the Learning Deep Learning Workshop.
+Repo with the notebooks for the PyTorch Workshop 2019 in Adevinta.
 
 ## Run Jupyter Notebooks Locally
 
